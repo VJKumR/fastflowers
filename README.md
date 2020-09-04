@@ -8,4 +8,3 @@ Bouquet Delivery app
 ● Ecommerce implementation.
 
 ● User based authentication.
-# fastflowers
